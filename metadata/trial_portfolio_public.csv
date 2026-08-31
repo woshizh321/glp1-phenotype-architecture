@@ -1,0 +1,16 @@
+trial,nct_id,molecule,evidence_domain,domain_sublayer,portfolio_status,publication_year,primary_source
+EXSCEL,NCT01144338,exenatide once weekly,T2D_CARDIOVASCULAR_OUTCOME,legacy T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2017.0,https://pubmed.ncbi.nlm.nih.gov/28910237/
+ELIXA,NCT01147250,lixisenatide,T2D_CARDIOVASCULAR_OUTCOME,event-enriched post-ACS,PRIMARY_COMPLETED_PORTFOLIO,2015.0,https://pubmed.ncbi.nlm.nih.gov/26630143/
+LEADER,NCT01179048,liraglutide,T2D_CARDIOVASCULAR_OUTCOME,legacy T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2016.0,https://pubmed.ncbi.nlm.nih.gov/27295427/
+REWIND,NCT01394952,dulaglutide,T2D_CARDIOVASCULAR_OUTCOME,legacy T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2019.0,https://pubmed.ncbi.nlm.nih.gov/31189511/
+SUSTAIN-6,NCT01720446,semaglutide subcutaneous,T2D_CARDIOVASCULAR_OUTCOME,legacy T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2016.0,https://pubmed.ncbi.nlm.nih.gov/27633186/
+HARMONY Outcomes,NCT02465515,albiglutide,T2D_CARDIOVASCULAR_OUTCOME,legacy T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2018.0,https://pubmed.ncbi.nlm.nih.gov/30291013/
+PIONEER 6,NCT02692716,semaglutide oral,T2D_CARDIOVASCULAR_OUTCOME,legacy T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2019.0,https://pubmed.ncbi.nlm.nih.gov/31185157/
+AMPLITUDE-O,NCT03496298,efpeglenatide,T2D_CARDIOVASCULAR_OUTCOME,legacy T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2021.0,https://pubmed.ncbi.nlm.nih.gov/34215025/
+SELECT,NCT03574597,semaglutide subcutaneous 2.4 mg,OBESITY_CARDIOVASCULAR_OUTCOME,established ASCVD without diagnosed diabetes,PRIMARY_COMPLETED_PORTFOLIO,2023.0,https://pubmed.ncbi.nlm.nih.gov/37952131/
+FLOW,NCT03819153,semaglutide subcutaneous 1.0 mg,T2D_KIDNEY_OUTCOME,albuminuric CKD outcome,PRIMARY_COMPLETED_PORTFOLIO,2024.0,https://pubmed.ncbi.nlm.nih.gov/38785209/
+SOUL,NCT03914326,semaglutide oral,T2D_CARDIOVASCULAR_OUTCOME,contemporary T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2025.0,https://pubmed.ncbi.nlm.nih.gov/40162642/
+SURPASS-CVOT,NCT04255433,tirzepatide,T2D_CARDIOVASCULAR_OUTCOME,contemporary T2D CVOT,PRIMARY_COMPLETED_PORTFOLIO,2025.0,https://pubmed.ncbi.nlm.nih.gov/41406444/
+STEP-HFpEF,NCT04788511,semaglutide subcutaneous 2.4 mg,HF_OUTCOME_QUALITATIVE,obesity-related HFpEF,QUALITATIVE_HF_LAYER,2023.0,https://pubmed.ncbi.nlm.nih.gov/37622681/
+SUMMIT,NCT04847557,tirzepatide,HF_OUTCOME_QUALITATIVE,obesity-related HFpEF,QUALITATIVE_HF_LAYER,2024.0,https://pubmed.ncbi.nlm.nih.gov/39555826/
+STEP-HFpEF DM,NCT04916470,semaglutide subcutaneous 2.4 mg,HF_OUTCOME_QUALITATIVE,obesity-related HFpEF,QUALITATIVE_HF_LAYER,2024.0,https://pubmed.ncbi.nlm.nih.gov/38587233/

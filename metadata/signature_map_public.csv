@@ -1,0 +1,11 @@
+trial,nct_id,signature_id,signature_member_count,clinician_interpretation
+ELIXA,NCT01147250,SIG-01,1,No observable DIRECT path because the source-defining event-timing feature is unavailable
+LEADER,NCT01179048,SIG-02,4,Age >=50 with observable coronary/cerebrovascular disease
+SUSTAIN-6,NCT01720446,SIG-02,4,Age >=50 with observable coronary/cerebrovascular disease
+EXSCEL,NCT01144338,SIG-03,1,Broad adult diagnosed-diabetes phenotype
+HARMONY Outcomes,NCT02465515,SIG-04,1,Age >=40 with observable coronary/cerebrovascular disease
+PIONEER 6,NCT02692716,SIG-02,4,Age >=50 with observable coronary/cerebrovascular disease
+REWIND,NCT01394952,SIG-02,4,Age >=50 with observable coronary/cerebrovascular disease
+AMPLITUDE-O,NCT03496298,SIG-05,1,Adult diagnosed diabetes with observable coronary/cerebrovascular disease
+SOUL,NCT03914326,SIG-06,1,Trial-specific composite observable DIRECT phenotype
+SURPASS-CVOT,NCT04255433,SIG-07,1,Trial-specific composite observable DIRECT phenotype

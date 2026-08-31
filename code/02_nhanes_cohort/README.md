@@ -1,0 +1,1 @@
+Assemble the 17 source columns listed in `build_analysis_input.py` from official NHANES 2017–March 2020 files, merged by `SEQN`. The script derives the analytical mapping variables without changing the official survey weights or design fields. Source and derived row-level data must remain local.

@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript; citation details will be added after publication."
+title: "GLP-1 phenotype architecture: reproducibility code"
+type: software
+repository-code: "https://github.com/woshizh321/glp1-phenotype-architecture"

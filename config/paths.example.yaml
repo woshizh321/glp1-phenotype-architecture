@@ -1,0 +1,4 @@
+aact_root: /path/to/local/aact_snapshot
+nhanes_root: /path/to/nhanes_2017_march_2020
+nhanes_source_csv: /path/to/harmonized/official_nhanes_source_columns.csv
+output_root: /path/to/reproduction_outputs

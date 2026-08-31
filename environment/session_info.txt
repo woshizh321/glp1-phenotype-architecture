@@ -1,0 +1,10 @@
+Python 3.14.4
+duckdb 1.5.5
+R 4.6.0
+survey 4.5
+yaml 2.3.12
+jsonlite 2.0.0
+readr 2.2.0
+ggplot2 4.0.3
+dplyr 1.2.1
+haven 2.5.5

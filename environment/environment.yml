@@ -1,0 +1,18 @@
+name: glp1-phenotype-architecture
+channels: [conda-forge]
+dependencies:
+  - python=3.14.4
+  - r-base=4.6.0
+  - r-survey=4.5
+  - r-yaml=2.3.12
+  - r-jsonlite=2.0.0
+  - r-readr=2.2.0
+  - r-ggplot2=4.0.3
+  - r-dplyr=1.2.1
+  - r-haven=2.5.5
+  - pip
+  - pip:
+      - duckdb==1.5.5
+      - matplotlib
+      - numpy
+      - pandas

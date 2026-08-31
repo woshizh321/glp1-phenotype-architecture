@@ -1,0 +1,16 @@
+release:
+  nhanes: "2017–March 2020 pre-pandemic"
+  aact_snapshot: "2026-05-01"
+survey_design:
+  weight: WTMECPRP
+  strata: SDMVSTRA
+  psu: SDMVPSU
+  lonely_psu: adjust
+  interval: beta_korn_graubard
+flow_egfr:
+  primary_equation: CKD_EPI_2021_RACE_FREE_CREATININE
+  thresholds: [15, 25, 50, 60, 75]
+  near_threshold_absolute_window: 1.0
+  window_inclusive: true
+trial_state_precedence: [DIRECT, POTENTIAL, INDETERMINATE, NOT_ALIGNED]
+depth_groups: ["0", "1", "2-4", ">=5"]

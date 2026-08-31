@@ -1,0 +1,1 @@
+The curation process records a machine-readable SHA-256 file manifest outside this public repository. Public contents are limited to code, public metadata, configuration examples, environment records, and documentation.
